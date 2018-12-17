@@ -1,0 +1,7 @@
+C:\Users\Caleb Rapp\source\repos\packageShippingQuote\packageShippingQuote\bin\Debug\packageShippingQuote.exe.config
+C:\Users\Caleb Rapp\source\repos\packageShippingQuote\packageShippingQuote\bin\Debug\packageShippingQuote.exe
+C:\Users\Caleb Rapp\source\repos\packageShippingQuote\packageShippingQuote\bin\Debug\packageShippingQuote.pdb
+C:\Users\Caleb Rapp\source\repos\packageShippingQuote\packageShippingQuote\obj\Debug\packageShippingQuote.csprojAssemblyReference.cache
+C:\Users\Caleb Rapp\source\repos\packageShippingQuote\packageShippingQuote\obj\Debug\packageShippingQuote.csproj.CoreCompileInputs.cache
+C:\Users\Caleb Rapp\source\repos\packageShippingQuote\packageShippingQuote\obj\Debug\packageShippingQuote.exe
+C:\Users\Caleb Rapp\source\repos\packageShippingQuote\packageShippingQuote\obj\Debug\packageShippingQuote.pdb
